@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EwaLabus
+- 👀 I’m interested in C#, Unity, Python.
+- 🌱 I’m currently learning how to design UI
+- 💞️ I’m looking for  an internship or a job in order to gain new experience.
